@@ -11,7 +11,7 @@
     },
     "url": "https://downloads.sourceforge.net/project/freeplane/freeplane%20stable/freeplane_bin-1.10.6.zip",
     "hash": "sha1:69310b253646235a18b025e0d2a60c8dff84303e",
-    "extract_dir": "freeplane-1.10.6",
+    "extract_dir": "freeplane-1.10.6u1",
     "bin": "freeplane.exe",
     "shortcuts": [
         [
